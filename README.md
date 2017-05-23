@@ -2,7 +2,7 @@ Database Schema Design For Web Based Project
 ====================
 
 <pre>This shows how one can make a database for web based project.</pre>
-Copyright (c) <2017> Abdullah Al Shiam
+Copyright (c) <2017> <b>Abdullah Al Shiam</b>
 <hr></hr>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
